@@ -1,0 +1,51 @@
+\documentclass[12pt]{article}
+
+% --- Essential Packages ---
+\usepackage{amsmath, amssymb, amsfonts}
+\usepackage{graphicx}        % For figures
+\usepackage{hyperref}        % For clickable links
+\usepackage[margin=1in]{geometry}  % 1-inch margins
+
+% --- Metadata ---
+\title{Entangled Derivative Pricing}
+\author{Aleksandra Perelman}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+% --- Main Body: §1 to §9 ---
+\section{§1: Introduction}
+% REPLACE THIS LINE with your exact §1 heading from the scope doc
+
+\section{§2: Background}
+% REPLACE THIS LINE with your exact §2 heading
+
+\section{§3: Methodology}
+% REPLACE THIS LINE with your exact §3 heading
+
+\section{§4: Entanglement Structure}
+% REPLACE THIS LINE with your exact §4 heading
+
+\section{§5: Quantum Circuit Implementation}
+% REPLACE THIS LINE with your exact §5 heading
+
+\section{§6: Numerical Experiments}
+% REPLACE THIS LINE with your exact §6 heading
+
+\section{§7: Results}
+% REPLACE THIS LINE with your exact §7 heading
+
+\section{§8: Discussion}
+% REPLACE THIS LINE with your exact §8 heading
+
+\section{§9: Conclusion}
+% REPLACE THIS LINE with your exact §9 heading
+
+% --- Bibliography (create references.bib later) ---
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}
+

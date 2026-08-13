@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Your specific research outputs (keeps repo lightweight)
+paper/figures/
+paper/data/
+
+# Scratch notebooks (nothing important)
+notebooks/*.ipynb
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
